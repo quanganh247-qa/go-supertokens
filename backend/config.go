@@ -28,8 +28,8 @@ var SuperTokensConfig = supertokens.TypeInput{
 							ThirdPartyId: "google",
 							Clients: []tpmodels.ProviderClientConfig{
 								{
-									ClientID:     "1060725074195-kmeum4crr01uirfl2op9kd5acmi9jutn.apps.googleusercontent.com",
-									ClientSecret: "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",
+									ClientID:     "xxx",
+									ClientSecret: "xxx",
 								},
 							},
 						},
@@ -39,8 +39,8 @@ var SuperTokensConfig = supertokens.TypeInput{
 							ThirdPartyId: "github",
 							Clients: []tpmodels.ProviderClientConfig{
 								{
-									ClientID:     "467101b197249757c71f",
-									ClientSecret: "e97051221f4b6426e8fe8d51486396703012f5bd",
+									ClientID:     "xxx",
+									ClientSecret: "xxx",
 								},
 							},
 						},
@@ -50,8 +50,8 @@ var SuperTokensConfig = supertokens.TypeInput{
 							ThirdPartyId: "twitter",
 							Clients: []tpmodels.ProviderClientConfig{
 								{
-									ClientID:     "4398792-WXpqVXRiazdRMGNJdEZIa3RVQXc6MTpjaQ",
-									ClientSecret: "BivMbtwmcygbRLNQ0zk45yxvW246tnYnTFFq-LH39NwZMxFpdC",
+									ClientID:     "xx",
+									ClientSecret: "xxx",
 								},
 							},
 						},
@@ -63,9 +63,9 @@ var SuperTokensConfig = supertokens.TypeInput{
 								{
 									ClientID: "4398792-io.supertokens.example.service",
 									AdditionalConfig: map[string]interface{}{
-										"keyId":      "7M48Y4RYDL",
-										"privateKey": "-----BEGIN PRIVATE KEY-----\nMIGTAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBHkwdwIBAQQgu8gXs+XYkqXD6Ala9Sf/iJXzhbwcoG5dMh1OonpdJUmgCgYIKoZIzj0DAQehRANCAASfrvlFbFCYqn3I2zeknYXLwtH30JuOKestDbSfZYxZNMqhF/OzdZFTV0zc5u5s3eN+oCWbnvl0hM+9IW0UlkdA\n-----END PRIVATE KEY-----",
-										"teamId":     "YWQCXGJRJL",
+										"keyId":      "xxx",
+										"privateKey": "xxx",
+										"teamId":     "xxx",
 									},
 								},
 							},
